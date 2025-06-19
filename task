@@ -1,6 +1,2 @@
-function isEven(number) {return number% 2 === 0;}
-so the number % 2 checks the remainder when the number is divided by 2.
-if the remainder is 0,its even,so it will return as true.
-otherwise, its odd,and it returns false. 
 console.log(isEven(5));//false
 console.log(isEven(10));//true
